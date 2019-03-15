@@ -1,0 +1,10 @@
+com\crm\qa\pages\ProjectAndCustomersPage.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\pages\ReportsPage.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\pages\TasksPage.class
+com\crm\qa\util\TestUtil.class
+com\crm\ExtentReportListener\ExtentReportListener.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\pages\UsersPage.class
+com\crm\qa\util\WebEventListener.class

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ActiTime Automation Test Suite">
+  
+  <test name="ActiTime App Test caes">
+  <classes>
+     <class name="com.crm.qa.testcases.LoginPageTest"></class>
+     <class name="com.crm.qa.testcases.TasksPageTest"></class>
+   </classes>>
+  
+  </test>
+</suite> <!-- Suite --> 
